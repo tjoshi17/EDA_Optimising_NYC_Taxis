@@ -45,6 +45,5 @@ This case study of Exploratory Data Analysis (EDA) is a analysis of a dataset on
 5. Deriving Insights and Stating Conclusions
 
 ### Author
-  Tejashri Pilla
- 
-  **Contact** - tejashrii.joshi@gmail.com
+ > Tejashri Pilla
+ >> **Contact** - tejashrii.joshi@gmail.com
